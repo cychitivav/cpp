@@ -7,7 +7,7 @@ EMOJIS
 * https://gist.github.com/rxaviers/7360908
   
 Find and replace the following text with the name of the project:
-	repo_name
+	cpp
 -->
 
 <div align="center" id="readme-top">
@@ -15,18 +15,18 @@ Find and replace the following text with the name of the project:
 <img src="https://user-images.githubusercontent.com/30636259/167962176-b8172b07-c769-4a7b-1690-db518c59fffa.png" alt="Logo" width="80"/>
 
 <!-- omit in toc -->
-# README title
-An awesome README description!
+# C++ Training
+This repo contains a 
 
-[**Explore the docs »**](https://github.com/cychitivav/repo_name/wiki)
+[**Explore the docs »**](https://github.com/cychitivav/cpp/wiki)
 
-[View Demo](https://github.com/cychitivav/repo_name) · [Report Bug](https://github.com/cychitivav/repo_name/issues) · [Request Feature](https://github.com/cychitivav/repo_name/issues)
+[View Demo](https://github.com/cychitivav/cpp) · [Report Bug](https://github.com/cychitivav/cpp/issues) · [Request Feature](https://github.com/cychitivav/cpp/issues)
 
-[![Contributors](https://img.shields.io/github/contributors/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/network/members)
-[![Stargazers](https://img.shields.io/github/stars/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/stargazers)
-[![Issues](https://img.shields.io/github/issues/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/issues)
-[![MIT License](https://img.shields.io/github/license/cychitivav/repo_name.svg?style=for-the-badge)](https://github.com/cychitivav/repo_name/blob/main/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/cychitivav/cpp.svg?style=for-the-badge)](https://github.com/cychitivav/cpp/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/cychitivav/cpp.svg?style=for-the-badge)](https://github.com/cychitivav/cpp/network/members)
+[![Stargazers](https://img.shields.io/github/stars/cychitivav/cpp.svg?style=for-the-badge)](https://github.com/cychitivav/cpp/stargazers)
+[![Issues](https://img.shields.io/github/issues/cychitivav/cpp.svg?style=for-the-badge)](https://github.com/cychitivav/cpp/issues)
+[![MIT License](https://img.shields.io/github/license/cychitivav/cpp.svg?style=for-the-badge)](https://github.com/cychitivav/cpp/blob/main/LICENSE)
 
 
 </div>
@@ -54,7 +54,7 @@ An awesome README description!
 
 [![Product Name Screen Shot](https://user-images.githubusercontent.com/30635659/169600958-763d1628-b7bb-475c-a8bc-56120d1d3ff9.svg)](https://user-images.githubusercontent.com/30635659/169600958-763d1628-b7bb-475c-a8bc-56120d1d3ff9.svg)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor `repo_name`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor `cpp`
 
 <div align="right">
 
@@ -93,7 +93,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
 	```sh
-	git clone https://github.com/cychitivav/repo_name.git
+	git clone https://github.com/cychitivav/cpp.git
 	```
 2. Next steps
 
@@ -102,7 +102,7 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-> __Note__: For more examples, please refer to the* [*Documentation*](https://github.com/cychitivav/repo_name/wiki)
+> __Note__: For more examples, please refer to the* [*Documentation*](https://github.com/cychitivav/cpp/wiki)
 
 
 
@@ -114,7 +114,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 - [ ] Feature 2
     - [ ] Nested Feature
 
-> __Note__: See the [open issues](https://github.com/cychitivav/repo_name/issues) for a full list of proposed features (and known issues).
+> __Note__: See the [open issues](https://github.com/cychitivav/cpp/issues) for a full list of proposed features (and known issues).
 
 <div align="right">
 
