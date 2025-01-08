@@ -15,12 +15,12 @@ Find and replace the following text with the name of the project:
 <img src=".fig/cpp_logo.png" alt="Logo" width="80"/>
 
 <!-- omit in toc -->
-
 # C++ Training
 
-This repo contains the code and documentation of my path to learn C++ programming language.
+This repo contains the code, exercises and documentation of my path to learn C++ programming language.
 
-[**Report Bug »**](https://github.com/cychitivav/cpp/issues)
+[Report Bug](https://github.com/cychitivav/cpp/issues) · [Propose a feature](https://github.com/cychitivav/cpp/pulls)
+
 
 [![Contributors](https://img.shields.io/github/contributors/cychitivav/cpp.svg?style=for-the-badge)](https://github.com/cychitivav/cpp/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/cychitivav/cpp.svg?style=for-the-badge)](https://github.com/cychitivav/cpp/network/members)
@@ -32,20 +32,15 @@ This repo contains the code and documentation of my path to learn C++ programmin
 
 <!-- TABLE OF CONTENTS -->
 <!-- omit in toc -->
-
 ## :pencil:Table of contents
 
--   [:pushpin:About The Project](#pushpinabout-the-project)
-    -   [Built With](#built-with)
--   [:checkered_flag:Getting Started](#checkered_flaggetting-started)
-    -   [Prerequisites](#prerequisites)
-    -   [Installation](#installation)
--   [:balloon:Usage](#balloonusage)
--   [:roller_coaster:Roadmap](#roller_coasterroadmap)
--   [:busts_in_silhouette:Contributing](#busts_in_silhouettecontributing)
--   [:key:License](#keylicense)
--   [:pencil2:Authors](#pencil2authors)
--   [:tada:Acknowledgments](#tadaacknowledgments)
+- [:pushpin:About The Project](#pushpinabout-the-project)
+  - [Folder Structure](#folder-structure)
+  - [Built With](#built-with)
+- [:balloon:Usage](#balloonusage)
+- [:busts\_in\_silhouette:Contributing](#busts_in_silhouettecontributing)
+- [:key:License](#keylicense)
+- [:tada:Acknowledgments](#tadaacknowledgments)
 
 <!-- ABOUT THE PROJECT -->
 
