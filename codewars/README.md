@@ -9,12 +9,12 @@ Each source code file in this folder follows a standard structure that includes 
 ```cpp
 /**
  * @file [filename].cpp
- * @brief Solution for the kata [Name of the Kata]
+
+ * @brief Solution for the kata "[Name of the Kata]"
+ * @link https://www.codewars.com/kata/[ID of the Kata]
  *
- * Kata: [Name of the Kata]
- * Link/ID: [Link or ID of the Kata]
- * Date: [Date of resolution (DD.MM.YYYY)]
- * Author: Cristian Chitiva - cychitivav@unal.edu.co
+ * @date [Date of resolution (DD.MM.YYYY)]
+ * @author Cristian Chitiva <cychitivav@unal.edu.co>
  */
 
 #include <iostream>
