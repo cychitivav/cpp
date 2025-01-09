@@ -4,7 +4,7 @@ This folder contains solutions to various Codewars challenges (katas) in the C++
 
 ## 📂 Structure and Template
 
-Each source code file in this folder follows a standard structure that includes information about the kata, such as the kata ID or link, the date of resolution, and the author of the solution (almost always me). Below is a reusable template that should be followed for each solution file in C++:
+Each source code file in this folder follows a standard structure that includes information about the kata, such as the kata ID or link, the date of resolution, and the author of the solution (usually me). Below is a reusable template that should be followed for each solution file in C++:
 
 ```cpp
 /**
@@ -58,4 +58,4 @@ To run any of the solution files, follow these steps:
 
 ## 📚 List of Solutions
 
-- [Reverse Words](reverse_words.cpp) - [Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+- [Bit Counting](count_bits.cpp) - [Link](https://www.codewars.com/kata/526571aae218b8ee490006f4)
