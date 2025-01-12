@@ -9,3 +9,7 @@
 
 # Test files
 *test*
+
+# C++ output files
+*.out
+*.exe

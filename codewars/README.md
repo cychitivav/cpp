@@ -20,16 +20,21 @@ Each source code file in this folder follows a standard structure that includes 
 #include <iostream>
 
 // Main function of the solution
-std::string solveKata(const std::string &input) {
-    // Solution implementation
-    return input; // Example return
+std::string solveKata(const std::string &input)
+{
+  // Solution implementation
+  return input; // Example return
 }
 
-int main() {
-    std::string input = "example input";
-    std::string result = solveKata(input);
-    std::cout << "Result: " << result << std::endl;
-    return 0;
+int main()
+{
+  std::string input = "example input";
+  std::string result = solveKata(input);
+  
+  std::cout << "Result: " << result << std::endl;
+
+  std::cin.get();
+  return 0;
 }
 ```
 
