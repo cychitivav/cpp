@@ -12,11 +12,8 @@
 
 int solution(const int number)
 {
-  if (number < 0)
-    return 0;
-
   int sum = 0;
-  for (int n = 0; n < number; n++)
+  for (int n = 3; n < number; n++)
     if (n % 3 == 0 || n % 5 == 0)
       sum += n;
 
